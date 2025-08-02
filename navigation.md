@@ -103,9 +103,9 @@ permalink: /hi/
 
   <h1>I Love You All!</h1>
 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="cat" style="top: 20%; left: 10%;">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="cat" style="top: 40%; left: 40%;">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="cat" style="top: 30%; left: 70%;">
+  <img alt="cat lol" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="cat" style="top: 20%; left: 10%;">
+  <img alt="cat lol" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="cat" style="top: 40%; left: 40%;">
+  <img alt="cat lol" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="cat" style="top: 30%; left: 70%;">
 
   <script>
     // Floating "I ♥ You" texts

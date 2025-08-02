@@ -101,7 +101,7 @@ permalink: /hi/
     <a href="/hi/">Hi Page</a>
   </nav>
 
-  <h1>I Love You All!</h1>
+  <h1>I Love You</h1>
 
   <img alt="cat lol" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="cat" style="top: 20%; left: 10%;">
   <img alt="cat lol" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="cat" style="top: 40%; left: 40%;">
